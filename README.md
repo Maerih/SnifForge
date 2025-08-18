@@ -1,51 +1,32 @@
-# 🤘 Light Blue React Template
+# 🛰️ SnifForge
 
-Free and open-source admin dashboard template built with React and Bootstrap 4. Developed with ❤️ by [Flatlogic](https://flatlogic.com/). If you love our project please star ⭐️ our repo!
-
-**Development at risk! Our developer wants to eat and accepted a job offer from McDonalds! Buy a [full version of Light Blue React](https://flatlogic.com/templates/light-blue-react) to help us hire him again!** *
-
-[View Demo](https://flatlogic.github.io/light-blue-react-template/) | [Download](https://github.com/flatlogic/light-blue-react-template.git) | [More templates](https://flatlogic.com/templates)
-
-[![image](https://user-images.githubusercontent.com/43149862/78150582-270b4380-7440-11ea-826a-64e99b77d06d.png)](https://flatlogic.github.io/light-blue-react-template/)
-
-This dashboard, a lite version (containing only a few components) of our [Light Blue React](https://flatlogic.com/templates/light-blue-react), showcases a subset of the ready-to-use components available in the full version, designed to give developers a preview of its comprehensive capabilities. Constructed on the foundation of React 16, it enjoys broad support across the web, making it an ideal starting point for developing [business software](https://flatlogic.com/) with a modern, user-friendly interface. You can easily customize the template by changing SCSS variables. All paddings and colors are in _variables.scss file.
-
-## Features
-
-Light Blue React Template is a great template to quick-start development of SAAS, CMS, IoT Dashboard, E-Commerce apps, etc  
-Lite version of a Light Blue includes following features and pages:
-
-* Bootstrap 4+ & SCSS
-* Responsive layout
-* React Chart.js
-* Simple login / logout 
-* Error page
-* Styled Bootstrap components like buttons, modals, etc
+SnifForge is a **web-based packet monitoring and analysis tool** designed for cybersecurity professionals and researchers.  
+It provides a simplified interface for tracking, analyzing, and visualizing network traffic in real time.
 
 
-## Pages
-We have implemented some basic pages, so you can see our template in action.
+<img width="1024" height="697" alt="Screenshot from 2025-08-18 07-47-03" src="https://github.com/user-attachments/assets/5af6e114-f80f-432c-9582-d92b36937584" />
 
-* Dashboard sample
-* Typography
-* Tables
-* Notifications
-* Charts
-* Icons
-* Maps
-* Chat
-* Login
-* Error page
+---
 
-## Instalation 
+## 🚀 Features
+- Live **packet sniffing** and analysis  
+- **Web interface** for monitoring (no need for complex CLI tools)  
+- Support for **multiple protocols** (TCP, UDP, HTTP, etc.)  
+- Lightweight and easy to deploy  
+- Extendable for custom use cases  
+
+---
+<img width="1024" height="697" alt="Screenshot from 2025-08-18 07-47-13" src="https://github.com/user-attachments/assets/aeef4689-c856-4a54-a36a-dd804b0403a1" />
+
+## 📦 Installation
 
 1. Clone repository
 ```shell
-git clone https://github.com/flatlogic/light-blue-react-template.git
+git clone https://github.com/Maerih/SnifForge.git
 ```
 2. Get in the project folder
 ```shell
-cd light-blue-react-template
+cd snifForge
 ```
 3. Install dependencies via npm or yarn
 ```shell
@@ -61,29 +42,51 @@ Run development server
 yarn run
 ```
 
-## Support
-For any additional information please refer to [Flatlogic homepage](https://flatlogic.com).
+## ⚡ Technologies Used
 
-## How can I support developers?
-- Star our GitHub repo :star:
-- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20%23VueJS%20and%20%23Bootstrap!&url=https://github.com/flatlogic/light-blue-vue-admin&via=flatlogic).
-- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
-- Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)
-- Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
+- **React.js** – Frontend framework  
+- **Node.js** – Backend runtime  
+- **WebSockets** – Real-time updates  
+- **pcap libraries** – Packet capture and analysis  
 
-## More from Flatlogic
-- [Awesome Bootstrap Checkboxes & Radios](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✅ Pure css way to make inputs look prettier
-- [React Native Starter](https://github.com/flatlogic/react-native-starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
-- [React Dashboard](https://github.com/flatlogic/react-dashboard) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
-- [Sing App](https://github.com/flatlogic/sing-app) - 💥 Free and open-source admin dashboard template built with Bootstrap 4
-- [Light Blue Dashboard](https://github.com/flatlogic/light-blue-dashboard) - 💦 Free and open-source (no frameworks) admin dashboard template built with Bootstrap
+---
 
-## Premium themes
-Looking for premium themes and templates? Check out our other template at [flatlogic.com](https://flatlogic.com/admin-dashboards).
+## 🛡️ Disclaimer
 
-## License
+SnifForge is intended for **educational and research purposes only**.  
+Do **not** use this tool on networks you do not own or have explicit permission to monitor.  
 
-Light Blue React Template version is [MIT](https://github.com/flatlogic/light-blue-react-template/blob/master/LICENCE)-licensed.
+---
 
-* that's a joke actually, but we would really appreciate if you support us by buying a premium version. Anyways free is just free and is limited to only few components, while premium one has more and comes with premium support.
+## 🤝 Contributing
+
+Contributions are what make open-source projects thrive.  
+If you’d like to improve SnifForge, here’s how you can help:
+
+1. Fork the repository  
+2. Create a feature branch (`git checkout -b feature/YourFeature`)  
+3. Commit your changes (`git commit -m "Add some feature"`)  
+4. Push to the branch (`git push origin feature/YourFeature`)  
+5. Open a Pull Request  
+
+Issues and feature requests are also welcome in the **Issues tab**.  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## ☕ Support the Project
+
+If you find SnifForge useful and want to support its development:  
+
+👉 [Buy Me a Coffee](https://www.buymeacoffee.com/) ☕  
+
+---
+
+## 👤 Author
+
+**Onyonka Maeri**  
